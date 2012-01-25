@@ -6,8 +6,6 @@
 Orchestra and LSF
 =================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
 
@@ -15,10 +13,12 @@ Contents:
    lsfqueues
    matlab
 
-Indices and tables
-==================
+.. FIXME make this stuff go
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    Indices and tables
+    ==================
+
+    * :ref:`genindex`
+    * :ref:`modindex`
+    * :ref:`search`
 
