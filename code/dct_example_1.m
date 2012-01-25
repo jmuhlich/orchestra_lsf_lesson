@@ -7,6 +7,7 @@ for i=1:5
   createTask(job, @max, 2, {rand(3)});
 end
 
+num_tasks = length(job.Tasks);
 submit(job);
 wait(job)
 result = getAllOutputArguments(job);
