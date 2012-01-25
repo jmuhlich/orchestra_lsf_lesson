@@ -1,3 +1,5 @@
+function dct_example_1
+
 jm = findResource('scheduler','type','lsf');
 set(jm, 'SubmitArguments', '-q sysbio_15m -R "rusage[matlab_dc_lic=1]"');
 
